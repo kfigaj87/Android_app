@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkingApp</string>
+    <string name="hint_text">Wpisz Wiadomość</string>
+    <string name="button_send">Wyślij wiadomość</string>
+    <string name="textview">TextView</string>
+    <string name="button_back">Wróć</string>
+</resources>
